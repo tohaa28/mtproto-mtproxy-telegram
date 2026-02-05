@@ -1,13 +1,23 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6b94e3d9-12b9-4111-92cc-11f6326f4c1e">
-    <img src="https://github.com/user-attachments/assets/6b94e3d9-12b9-4111-92cc-11f6326f4c1e" alt="English">
+    <img src="https://github.com/user-attachments/assets/6b94e3d9-12b9-4111-92cc-11f6326f4c1e" width="20" alt="English">
+    <a href="https://github.com/Internet-Helper/MTProto-MTProxy-Telegram/blob/main/README.en.md">ENGLISH README</a>
   </picture>
 </div>
 
-<h1 align="center">
-  <a href="https://github.com/Internet-Helper/MTProto-MTProxy-Telegram/blob/main/README.en.md">English README (click on me)</a>
-</h1>
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1f74035d-8be0-4cac-9670-54dbad1ccd56" width="20" alt="Telegram">
+  <a href="https://t.me/Inter_net_Helper/8872">Чат в Telegram</a> для вопросов или обсуждения 
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b74aab60-2d5e-40de-a688-0eb3a58cbe11" width="20" alt="Money"> Поблагодарить можно через
+  <a href="https://pay.cloudtips.ru/p/8ec8a87c">CloudTips</a> или <a href="https://yoomoney.ru/to/41001945296522">Юмани</a>
+</div>
+
+---
 
 # Установка для Debian 10-12 или Ubuntu 20.04-24.04
 
@@ -138,3 +148,4 @@ sudo install_mtproxy_russian.sh delete
 ***
 
 Нравится проект? Поддержи автора через [CloudTips](https://pay.cloudtips.ru/p/8ec8a87c) или [Юмани](https://yoomoney.ru/to/41001945296522) скинув на чашечку кофе ☕ 
+
