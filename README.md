@@ -52,7 +52,7 @@
 
 ```
 # Загрузка скрипта
-wget -O install_mtproxy_russian.sh https://raw.githubusercontent.com/Internet-Helper/MTProto-MTProxy-Telegram/refs/heads/main/install_mtproxy_russian.sh
+wget -O install_mtproxy_russian.sh https://raw.githubusercontent.com/tohaa28/mtproto-mtproxy-telegram/refs/heads/main/install_mtproxy_english.sh
 
 # Установка dos2unix (если еще не установлен)
 sudo apt update && sudo apt install -y dos2unix
