@@ -256,7 +256,7 @@ sudo apt update -y && sudo apt upgrade -y
 # Установка зависимостей
 print_status "Установка зависимостей..."
 sudo apt install -y git build-essential libssl-dev zlib1g-dev curl wget \
-    libc6-dev gcc-multilib make cmake pkg-config netcat-openbsd xxd iproute2 dos2unix
+    libc6-dev make cmake pkg-config netcat-openbsd xxd iproute2 dos2unix
 
 # Создание пользователя mtproxy для безопасного запуска сервиса
 print_status "Пользователь mtproxy (для безопасности)..."
